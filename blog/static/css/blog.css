@@ -1,5 +1,5 @@
 .page-header {
-    background-color: black;
+    background-color: #ff9400;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -8,10 +8,6 @@
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
-}
-
-.glypyicon {
-    font-size: 16px;
 }
 
 .content {
@@ -23,7 +19,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: green;
+    color: #828282;
 }
 
 .save {
@@ -47,8 +43,4 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
-}
-
-.commnet {
-    margin: 20px 0px 20px 20px;
 }
